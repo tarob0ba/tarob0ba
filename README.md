@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **Bubble tea originated in Thailand in the 1980s**
 
-### Blogs posts
+### Recent posts from _The Pearl_
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
