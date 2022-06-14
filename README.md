@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Beckett</h1>
 <h3 align="center">a funny boba fanatic</h3>
 
-<p align="left"> <a href="https://twitter.com/tarob0ba_" target="blank"><img src="https://img.shields.io/twitter/follow/tarob0ba_?logo=twitter&style=for-the-badge" alt="tarob0ba_" /></a> </p>
-
 - 🔭 I’m currently working on [The Pearl](https://b0ba.dev/)
 
 - 🌱 I’m currently learning **Rust**
