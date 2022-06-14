@@ -17,6 +17,10 @@
 
 ### Recent posts from _The Pearl_
 <!-- BLOG-POST-LIST:START -->
+- [How to make a milk tea](https://b0ba.dev/blog/how-to-make-a-milk-tea)
+- [Why I like TailwindCSS](https://b0ba.dev/blog/why-i-like-tailwindcss)
+- [Newsletter launch](https://b0ba.dev/blog/newsletter-launch)
+- [Phone hunting](https://b0ba.dev/blog/phone-hunting)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
