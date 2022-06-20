@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Beckett</h1>
-<h3 align="center">a funny boba fanatic</h3>
+<h3 align="center">a boring boba fanatic</h3>
 
 - 🔭 I’m currently working on [The Pearl](https://b0ba.dev/)
 
