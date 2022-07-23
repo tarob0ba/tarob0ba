@@ -28,7 +28,7 @@
 <a href="https://dev.to/tarob0ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="tarob0ba" height="30" width="40" /></a>
 <a href="https://twitter.com/tarob0ba_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tarob0ba_" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15490423" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15490423" height="30" width="40" /></a>
-<a href="/https://b0ba.dev/feed.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://b0ba.dev/feed.xml" height="30" width="40" /></a>
+<a href="/https://b0ba.dev/feed.xml" target="blank">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
